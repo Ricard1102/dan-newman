@@ -704,8 +704,8 @@ body.mobile-nav-active #mobile-nav-toggle {
    
      #about .about-img2 {
    
-       background: url(../img/IMG_9560.jpg) center center no-repeat;
-        min-height: 620px;
+       background: url(../img/IMG_9560.jpg) top center no-repeat;
+        min-height: 510px;
         /* background-size: 900px 600px; */
              background-size: cover;
         border-radius: 3px;
@@ -719,8 +719,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 
      #about .about-img3 {
 
-      background: url(../img/sts3.jpg) center center no-repeat;
-       background-size: 900px 1000px;
+      background: url(../img/IMG_9416.jpg) center center no-repeat;
+       background-size: 600px 400px;
        min-height: 300px;
        /*background-size: cover;*/
        border-radius: 3px;
@@ -735,9 +735,9 @@ body.mobile-nav-active #mobile-nav-toggle {
      
        #about .about-img3 {
      
-         background: url(../img/sts3.jpg) center center no-repeat;
-          min-height: 520px;
-          background-size: 900px 600px;
+         background: url(../img/IMG_9416.jpg) center center no-repeat;
+          min-height: 300px;
+          background-size: 600px 400px;
           border-radius: 3px;
           -webkit-box-shadow: 0px 4px 36px 7px rgba(0,0,0,0.2);
           -moz-box-shadow: 0px 4px 36px 7px rgba(0,0,0,0.2);
@@ -769,6 +769,16 @@ body.mobile-nav-active #mobile-nav-toggle {
 #about .about-text:last-child {
   margin-bottom: 0;
 }
+
+#about li{
+  text-align: justify;
+  padding-left: -5px;
+}
+#about ul{
+  list-style-type: square;
+  padding-left: 12px;
+}
+
 
 /* Services Section
 --------------------------------*/
