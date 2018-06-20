@@ -1282,9 +1282,12 @@ vertical-align: middle;
   margin-top: 20px;
 }
 
+
+
+
 .box {
 
-  background: rgb(16, 153, 172,0.8);
+  background: rgba(16, 153, 172,0.8);
   opacity:0.8;
   -khtml-opacity: 0.8;
   /* background: rgb(255, 255, 255); */
