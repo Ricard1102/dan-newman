@@ -108,6 +108,7 @@ app.post('/send', (req, res) => {
     <li>Subject: ${req.body.subject}</li>
     <li>Treatment: ${req.body.treatment}</li>
     <li>Message: ${req.body.message}</li>
+    <li>GDPR Consent: ${req.body.gdpr}</li>
     </ul>`;
 
   // create reusable transporter object using the default SMTP transport
