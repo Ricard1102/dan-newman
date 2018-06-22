@@ -644,7 +644,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #about .about-img {
 
  background: url(../img/about.jpg) center center no-repeat;
-  background-size: 400px 300px;
+  background-size: 460px 300px;
   min-height: 300px;
   /*background-size: cover;*/
   border-radius: 3px;
@@ -695,7 +695,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   #about .about-img2 {
 
     background: url(../img/IMG_9560.jpg) top center no-repeat;
-    background-size: 400px 500px;
+    background-size: 360px 440px;
     min-height: 300px;
      /*background-size: cover;*/
      border-radius: 3px;
@@ -726,7 +726,7 @@ body.mobile-nav-active #mobile-nav-toggle {
      #about .about-img3 {
 
       background: url(../img/IMG_9416.jpg) center center no-repeat;
-       background-size: 600px 400px;
+       background-size: 680px 400px;
        min-height: 300px;
        /*background-size: cover;*/
        border-radius: 3px;
@@ -1285,7 +1285,7 @@ vertical-align: middle;
 
 
 
-.box {
+#services .box {
 
   background: rgba(16, 153, 172,0.8);
   opacity:0.8;
@@ -1301,6 +1301,10 @@ vertical-align: middle;
   -moz-box-shadow: 0px 11px 20px -6px rgba(102,102,102,1);
   box-shadow: 0px 11px 20px -6px rgba(102,102,102,1);
   overflow-y: scroll;
+}
+
+.box:hover{
+  opacity: 1;
 }
 
 .pic {
@@ -1391,3 +1395,105 @@ select{
   padding: 2px 0;
   height: 32px;
 }
+
+
+/* how can we help 
+--------------------------------*/
+
+#howcanwehelp{
+  background: linear-gradient(to bottom right, rgba(111, 198, 238, 0.308),rgba(216, 17, 93, 0.2));
+}
+
+#howcanwehelp .service-item {
+  margin-bottom: 20px;
+}
+
+#howcanwehelp .service-icon {
+  float: left;
+  background: #03c4eb;
+  padding: 16px;
+  border-radius: 50%;
+  transition: 0.5s;
+  border: 1px solid #03c4eb;
+}
+
+#howcanwehelp .service-icon i {
+  color: #fff;
+  font-size: 24px;
+}
+
+#howcanwehelp .service-item:hover .service-icon {
+  background: #fff;
+}
+
+#howcanwehelp .service-item:hover .service-icon i {
+  color: #03c4eb;
+}
+
+
+#howcanwehelp .section-title{
+  margin-top: 60px;
+}
+
+#howcanwehelp .service-title {
+  /*Ricard custom*/
+color: rgba(16, 153, 172);
+  margin-left: 2px;
+  font-weight: 700;
+  margin-bottom: 15px;
+  margin-top:10px;
+
+  
+}
+
+#howcanwehelp .service-title a {
+  /*color: #111;*/
+  color: #FFCB8C;
+  
+}
+
+#howcanwehelp .service-description {
+  margin: 10px 1%;
+  /*Ricard custom*/
+  text-align: justify;
+  /*margin-left: 80px;*/
+  line-height: 24px;
+  color: #666666;
+  min-height: 120px;
+  /* border-style: solid; */
+  /* border-color: #666666;
+  border-width: 0px 0px 1px 0px; */
+}
+
+#howcanwehelp .special-offer {
+  margin: 2% 1% 7% 1%;
+  /*Ricard custom*/
+  text-align: justify;
+  /*margin-left: 80px;*/
+  line-height: 24px;
+}
+
+
+
+
+
+
+#howcanwehelp .price{
+  font-family: sans-serif;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 80;
+  color: white;
+  margin: 4px 0 4px 0;
+}
+
+
+
+#howcanwehelp img{
+  margin:10px 0;
+   width:100%; 
+   border-radius: 8px;
+  height: 200px;
+}
+
+
