@@ -7,51 +7,33 @@
       <div class="col-md-12">
         <h3 class="section-title">How Can We Help You?</h3>
         <div class="section-title-divider"></div>
-        <div>
-          <p class="section-description" style="text-align:justify;">Untreated foot problems can have a major impact on your mobility and self confidence. We want to help you.
-            <b> Feet Foremost can treat all general problems of the foot, ankle and lower limb.</b> We provide a comprehensive
-            range of foot care solutions tailored to each patient’s needs and circumstances.*</p>
-        </div>
-        <div class="about-img"></div>
-        <div>
-          <p class="section-description" style="text-align:justify;">
-            If you are not sure of the name of your disease or the symptoms you have, why don't you take a look to the foot problems
-            we are experts treating?
-          </p>
-        </div>
+        <p class="section-description">Untreated foot problems can have a major impact on your mobility and self confidence. We want to help you.
+          <b> Feet Foremost can treat all general problems of the foot, ankle and lower limb.</b> We provide a comprehensive
+          range of foot care solutions tailored to each patient’s needs and circumstances.*</p>
       </div>
-
-
     </div>
-  </div>
 
 
 
-
-
-
-
-  <div class="container">
-
-    <div align="left">
+    <div align="center">
       <h4>
-        Foot problems we commonly see:</h4>
+        Foot problems we commonly see include:</h4>
     </div>
 
 
-    <div class="col-md-12 ">
+    <div class="col-md-12">
 
 
-      <div align="center " class="col-xs-12 col-sm-3 ">
-        <img src=" public/img/prob1.png " alt="Difficulty reaching or cutting toe nails">
+      <div align="center" class="col-xs-12 col-sm-3">
+        <img src=" public/img/prob1.png" alt="Difficulty reaching or cutting toe nails ">
       </div>
-      <div class="col-sm-9 extra ">
-        <h5 class="service-title wow fadeInRight ">
+      <div class="col-sm-9">
+        <h4 class="service-title wow fadeInRight">
           Difficulty reaching or cutting thickened toe nails
-        </h5>
+        </h4>
 
 
-        <p class="service-description ">Feet Foremost provide a
+        <p class="service-description">Feet Foremost provide a
           <b>comprehensive nail care service</b>. When thickened, toe nails can cause discomfort, be unsightly and difficult
           to manage. We discuss the causes of your condition and can reduce the nail thickness, producing a flat nail that
           looks and feels more normal.
@@ -62,21 +44,21 @@
 
     </div>
 
-    <div class="line col-md-12 "></div>
+    <div class="line col-md-12"></div>
 
 
-    <div class="col-md-12 ">
+    <div class="col-md-12">
 
-      <div align="center " class="col-sm-3 ">
-        <img style=" " src="public/img/prob2.png " alt="Hard skin and corns ">
+      <div align="center" class="col-sm-3">
+        <img style="" src="public/img/prob2.png" alt="Hard skin and corns">
       </div>
-      <div class="col-sm-9 extra ">
-        <h5 class="service-title wow fadeInRight ">
+      <div class="col-sm-9">
+        <h4 class="service-title wow fadeInRight">
           Hard skin and corns
-        </h5>
+        </h4>
 
 
-        <p class="service-description ">Hard skin and corns usually occur over areas of pressure, rubbing or squeezing. They can be caused by the shape of
+        <p class="service-description">Hard skin and corns usually occur over areas of pressure, rubbing or squeezing. They can be caused by the shape of
           your footwear and feet or simply the way that you walk. There are also some dermatological conditions that can
           create excessive hard skin too such as Psoriasis and hyperkeratosis. Feet Foremost
           <b>can gently remove and safely manage hard skin</b>, avoiding the effort and discomfort sometimes associated with
@@ -87,16 +69,16 @@
       </div>
     </div>
 
-    <div class="line col-md-12 "></div>
-    <div class="col-md-12 ">
+    <div class="line col-md-12"></div>
+    <div class="col-md-12">
 
-      <div align="center " class="col-sm-3 ">
-        <img src="public/img/pedicure.jpg " alt="Medi Pedi ">
+      <div align="center" class="col-sm-3">
+        <img src="public/img/pedicure.jpg" alt="Medi Pedi">
       </div>
-      <div class="col-sm-9 extra ">
-        <h5 class="service-title wow fadeInRight ">
-          Medical Pedicure (Medi Pedi)</h5>
-        <p class="service-description ">Do you have aching, tired feet or unsightly dry skin with cracked heels? The why not pamper yourself with our one
+      <div class="col-sm-9">
+        <h4 class="service-title wow fadeInRight">
+          Medical Pedicure (Medi Pedi)</h4>
+        <p class="service-description">Do you have aching, tired feet or unsightly dry skin with cracked heels? The why not pamper yourself with our one
           stop solution.
           <b>The Medi Pedi combines all the benefits of a luxury pedicure with professional podiatry care</b>. Our treatment
           starts with a luxurious foot spa containing nourishing skin conditioner. You then have your nails cut and shaped
@@ -109,24 +91,24 @@
     </div>
 
 
-    <div class="line col-md-12 "></div>
+    <div class="line col-md-12"></div>
 
 
-    <div class="col-md-12 ">
-      <div align="center " class="col-sm-3 ">
-        <img src="public/img/prob6.png " alt="Nail Reconstruction (Aesthetics) ">
+    <div class="col-md-12">
+      <div align="center" class="col-sm-3">
+        <img src="public/img/prob6.png" alt="Nail Reconstruction (Aesthetics)">
       </div>
-      <div class="col-sm-9 extra ">
-        <h5 class="service-title wow fadeInRight ">
+      <div class="col-sm-9">
+        <h4 class="service-title wow fadeInRight">
           Nail Reconstruction (Aesthetics)
-        </h5>
+        </h4>
 
 
-        <p class="service-description ">Diseased and damaged nails cause many people to hide their feet out of embarrassment. Traditionally there have been
+        <p class="service-description">Diseased and damaged nails cause many people to hide their feet out of embarrassment. Traditionally there have been
           very few options other than to file down the nail. Equally, artificial toe nails often look aesthetically poor.
           Now there is an exciting new option.
           <b>Feet Foremost are pleased to be able to offer
-            <a href="Pedique ">Pedique</a>.
+            <a href="Pedique">Pedique</a>.
           </b>
           <br/> Pedique is a gel resin system that is applied over the existing nail bed, covering irregular nail edges and creating
           a smooth surface. It’s shaped to match existing nails then hardened and cured with an ultra violet light. Pedique
@@ -139,20 +121,20 @@
 
       </div>
     </div>
-    <div class="line col-md-12 "></div>
-    <div class="col-md-12 ">
+    <div class="line col-md-12"></div>
+    <div class="col-md-12">
 
-      <div align="center " class="col-sm-3 ">
-        <img src="public/img/prob7.png " alt="Difficulty reaching or cutting toe nails ">
+      <div align="center" class="col-sm-3">
+        <img src="public/img/prob7.png" alt="Difficulty reaching or cutting toe nails">
       </div>
-      <div class="col-sm-9 extra ">
-        <h5 class="service-title wow fadeInRight ">
+      <div class="col-sm-9">
+        <h4 class="service-title wow fadeInRight">
 
           In-growing and painful nails:
-        </h5>
+        </h4>
 
 
-        <p class="service-description "> In-growing and painful nail occurs when the sides of a nail press or grow into the underlying skin. For many people
+        <p class="service-description"> In-growing and painful nail occurs when the sides of a nail press or grow into the underlying skin. For many people
           the condition is hereditary, though footwear, nail care, pregnancy and changes in foot shape may also be a factor.
           The condition can be extremely painful and may cause a localized infection. At Feet Foremost we gently
           <b>remove the portion of nail digging in and re shape the nail</b>. For chronic or recurrent episodes we can carry
@@ -164,17 +146,17 @@
 
     </div>
 
-    <div class="line col-md-12 "></div>
+    <div class="line col-md-12"></div>
     <div class="col-md-12 ">
 
-      <div align="center " class="col-sm-3 ">
-        <img src="public/img/prob8.png " alt="In-growing and painful nails ">
+      <div align="center" class="col-sm-3">
+        <img src="public/img/prob8.png" alt="In-growing and painful nails">
       </div>
-      <div class="col-sm-9  ">
-        <h5 class="service-title wow fadeInRight ">Diabetic and foot assessment:</h5>
+      <div class="col-sm-9">
+        <h4 class="service-title wow fadeInRight">Diabetic and foot assessment:</h4>
 
 
-        <p class="service-description ">
+        <p class="service-description">
           Within feet, diabetes can effect blood circulation, and nerve function. For these reasons it is very important for diabetics
           to have their feet checked annually and know how to look after them. At Feet Foremost we offer a comprehensive
           diabetic foot care service. An initial assessment allows us to determine the health of the feet and identify any
@@ -194,21 +176,21 @@
     </div>
 
 
-    <div class="line col-md-12 "></div>
+    <div class="line col-md-12"></div>
 
 
 
-    <div class="col-md-12 ">
+    <div class="col-md-12">
 
 
-      <div align="center " class="col-sm-3 ">
-        <img src="public/img/prob9.png " alt="Verrucae ">
+      <div align="center" class="col-sm-3">
+        <img src="public/img/prob9.png" alt="Verrucae">
       </div>
-      <div class="col-sm-9 extra ">
-        <h5 class="service-title wow fadeInRight ">Verrucae</h5>
+      <div class="col-sm-9">
+        <h4 class="service-title wow fadeInRight">Verrucae</h4>
 
 
-        <p class="service-description ">
+        <p class="service-description">
           Also known as plantar warts, verruca are viral in origin (Human Papilloma Virus HPV) and typically occur under the feet and
           around the toes. They can spread as well as being unsightly and painful. Verrucae can be difficult to get rid of
           with self-treatment products alone. Our service can offer a
@@ -218,17 +200,17 @@
 
       </div>
     </div>
-    <div class="line col-md-12 "></div>
-    <div class="col-md-12 ">
+    <div class="line col-md-12"></div>
+    <div class="col-md-12">
 
-      <div align="center " class="col-sm-3 ">
-        <img src="public/img/prob10.png " alt="Fungal toe nails ">
+      <div align="center" class="col-sm-3">
+        <img src="public/img/prob10.png" alt="Fungal toe nails">
       </div>
-      <div class="col-sm-9 extra ">
-        <h5 class="service-title wow fadeInRight ">Fungal toe nails</h5>
+      <div class="col-sm-9">
+        <h4 class="service-title wow fadeInRight">Fungal toe nails</h4>
 
 
-        <p class="service-description ">
+        <p class="service-description">
           It is estimated that 60% of the population are walking around with fungal (mycotic) toe and finger nails. Weak and damaged
           nails can become easily infected if fungus builds up on feet and hands or is transmitted by contaminated nail tools.
           Therefore many patients may have a history of nail damage through playing sports or use of gel nails and pedicures.
@@ -242,16 +224,16 @@
 
       </div>
     </div>
-    <div class="line col-md-12 "></div>
-    <div class="col-md-12 ">
+    <div class="line col-md-12"></div>
+    <div class="col-md-12">
 
-      <div align="center " class="col-sm-3 ">
-        <img src="public/img/prob11.png " alt="Bunions (Hallux Valgus) ">
+      <div align="center" class="col-sm-3">
+        <img src="public/img/prob11.png" alt="Bunions (Hallux Valgus)">
       </div>
-      <div class="col-sm-9 extra ">
-        <h5 class="service-title wow fadeInRight ">Bunions (Hallux Valgus)</h5>
+      <div class="col-sm-9">
+        <h4 class="service-title wow fadeInRight">Bunions (Hallux Valgus)</h4>
 
-        <p class="service-description ">
+        <p class="service-description">
           Bunions can be unsightly as well as cause pain and restrict choice of footwear. This condition involves enlargement of the
           big toe joint and sometimes the little toe joint too (known as a tailors bunion). Progression may vary from a small
           localized bump to angling of the big toe sideways, pushing the second toe upwards. Bunions can therefore effect
@@ -268,18 +250,18 @@
     </div>
 
 
-    <div class="line col-md-12 "></div>
+    <div class="line col-md-12"></div>
 
-    <div class="col-md-12 ">
+    <div class="col-md-12">
 
-      <div align="center " class="col-sm-3 ">
-        <img src="public/img/prob12.png " alt="Soft tissue Conditions ">
+      <div align="center" class="col-sm-3">
+        <img src="public/img/prob12.png" alt="Soft tissue Conditions">
       </div>
-      <div class="col-sm-9 extra ">
-        <h5 class="service-title wow fadeInRight ">Soft tissue Conditions</h5>
+      <div class="col-sm-9">
+        <h4 class="service-title wow fadeInRight">Soft tissue Conditions</h4>
 
 
-        <p class="service-description ">
+        <p class="service-description">
           This is a collective name that covers a range conditions including:
 
 
@@ -302,17 +284,17 @@
 
       </div>
     </div>
-    <div class="line col-md-12 "></div>
-    <div class="col-md-12 " style="margin-bottom:40px; ">
+    <div class="line col-md-12"></div>
+    <div class="col-md-12 " style="margin-bottom:40px;">
 
-      <div align="center " class="col-md-3 ">
-        <img src="public/img/prob13.png " alt="Biomechanical Assessment and Orthotics ">
+      <div align="center" class="col-md-3">
+        <img src="public/img/prob13.png" alt="Biomechanical Assessment and Orthotics">
       </div>
-      <div class="col-sm-9 extra ">
-        <h5 class="service-title wow fadeInRight ">Biomechanical Assessment and Orthotics</h5>
+      <div class="col-sm-9">
+        <h4 class="service-title wow fadeInRight">Biomechanical Assessment and Orthotics</h4>
 
 
-        <p class="service-description ">
+        <p class="service-description">
           <b>Biomechanical assessment examines the function of joints and structures through a range of your usual daily activities
             including standing, walking, running</b>. It also takes into account any particular sports you may undertake.
           The assessment not only examines the foot and lower limb, but also your knees, hips and spine since they all work
@@ -333,110 +315,6 @@
 
 
 
-
-
-  </div>
-
-  <div class="service row" style="margin:0 0 0 0;">
-
-    <div class="container wow fadeInUp">
-      <div class="container" align="left">
-        <h4 style="font-size:32px; color:white; margin:30px 0;">Treatments</h4>
-      </div>
-
-      <div class="col-xs-12 col-sm-12 col-md-9">
-
-        <table class="table" style="">
-          <thead>
-            <tr>
-              <th scope="col"></th>
-              <th scope="col">Treatments available</th>
-              <th scope="col">Price</th>
-              <th scope="col">Duration</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <th scope="row"></th>
-              <td>Initial Podiatry Assessment</td>
-              <td>£50.00</td>
-              <td>40min</td>
-            </tr>
-            <tr>
-              <th scope="row"></th>
-              <td>Routine Podiatry Appointment</td>
-              <td>£45.00</td>
-              <td>30min</td>
-            </tr>
-            <tr>
-              <th scope="row"></th>
-              <td>Medical Pedicure (medi pedi)</td>
-              <td>£55.00</td>
-              <td>30min</td>
-            </tr>
-            <tr>
-              <th scope="row"></th>
-              <td>Home visits</td>
-              <td>£50.00</td>
-              <td>30-40min</td>
-            </tr>
-            <tr>
-              <th scope="row"></th>
-              <td>Nail surgery (1 or 2 toe(s) + redressing appointments)</td>
-              <td>£350.00-£450.00</td>
-              <td>60min</td>
-            </tr>
-            <tr>
-              <th scope="row"></th>
-              <td>Biomechanical Assessment</td>
-              <td>£70.00</td>
-              <td>50min</td>
-            </tr>
-            <tr>
-              <th scope="row"></th>
-              <td>Orthotics</td>
-              <td>£50.00-£150.00</td>
-              <td>-</td>
-            </tr>
-            <tr>
-              <th scope="row"></th>
-              <td>Pedique Nail Aesthetics (1 small toe, 1 large toe, 1 foot, 2 feet</td>
-              <td>£25.00 / £40.00 / £80.00 / £150.00</td>
-              <td>-</td>
-            </tr>
-          </tbody>
-        </table>
-
-
-      </div>
-
-      <div class="col-md-3">
-        <div>
-          <p class="service-description white">
-
-            At Feet Foremost we have a wide range of treatments available to fit your needs. From home visits, and regular appointments,
-            to nail surgery, and orthotics. Do you need more information? Get in touch with us :)
-          </p>
-        </div>
-
-        <div align="center">
-          <a class="none" href="#contact">
-            <button class="btn btn-collapse pulse" type="button">
-              CONTACT US
-            </button>
-          </a>
-        </div>
-
-
-
-      </div>
-
-      <div class="col-xs-12">
-        <p class="service-description white">*Feet Foremost also sell a range of creams and foot products individually priced. Please contact us for further details.
-        </p>
-      </div>
-
-    </div>
 
 
   </div>
