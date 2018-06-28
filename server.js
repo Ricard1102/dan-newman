@@ -30,7 +30,7 @@ app.get('/privacy', (req, res) => {
   res.render('privacy.hbs', {
     company: 'Feet Foremost',
     phone: '+44 (0) 7960 272623',
-    mail: 'web@mail.com',
+    mail: 'feetforemost@hotmail.com',
     address: '35 Lintree Grove Shirley, Croydon, London, United Kingdom, CR0 8AZ'
   });
 });
@@ -58,10 +58,10 @@ app.get('/', (req, res) => {
 
       webmail: 'web@mail.com',
       twitter_url: '',
-      facebook_url: '',
+      facebook_url: 'https://www.facebook.com/feetforemost/',
       googleplus_url: '',
       instagram_url: '',
-      linkedin_url: '',
+      linkedin_url: 'https://www.linkedin.com/in/daniel-newman-b9800972/',
 
       //treatments
       treatment1: 'Initial Podiatry Appointment',
