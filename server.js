@@ -26,13 +26,22 @@ app.use(bodyParser.urlencoded({ extended: false }));
 // parse application/json
 app.use(bodyParser.json());
 
+app.get('/privacy', (req, res) => {
+  res.render('privacy.hbs', {
+    company: 'Feet Foremost',
+    phone: '+44 (0) 7960 272623',
+    mail: 'web@mail.com',
+    address: '35 Lintree Grove Shirley, Croydon, London, United Kingdom, CR0 8AZ'
+  });
+});
+
 
 app.get('/', (req, res) => {
   res.render('home.hbs',
     {
       //Head.hbs variables
-      keywords: '',
-      metaDescription: '',
+      keywords: 'podiatrist Croydon, bunion treatment, nail surgery croydon, chriopdist, diabetes podiatry',
+      metaDescription: 'Feet Foremost is a professional podiatry (chiropody) service providing nail surgery, orthotics, foot and assessments and treatment for bunions, verrucaes and other common foot diseases. Home vists available.',
       pageTitle: 'Feet Foremost',
 
       //Header.hbs variables
@@ -88,7 +97,7 @@ app.get('/', (req, res) => {
 
 
       //Contact Variables
-      businessPhone: '000 111 333'
+      businessPhone: '+44 (0) 7960 272623'
 
 
 
@@ -97,6 +106,8 @@ app.get('/', (req, res) => {
 
 
 });
+
+
 
 app.post('/send', (req, res) => {
   const output = `<p>You have a new contact request</p>

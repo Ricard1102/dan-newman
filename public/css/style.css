@@ -206,7 +206,7 @@ h6 {
 
 
 #hero .hero-logo {
-  margin: 100px;
+  margin: 10px;
 }
 
 #hero .hero-logo img {
@@ -233,7 +233,7 @@ h6 {
 #hero h1 {
   margin: 30px 0 10px 0;
   font-weight: 700;
-  line-height: 48px;
+  line-height: 26px;
   text-transform: uppercase;
   color: #fff;
 }
