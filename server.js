@@ -56,7 +56,7 @@ app.get('/', (req, res) => {
       //Hero variables
       h1Title: 'Feet Foremost',
 
-      webmail: 'web@mail.com',
+      webmail: 'feetforemost@hotmail.com',
       twitter_url: '',
       facebook_url: 'https://www.facebook.com/feetforemost/',
       googleplus_url: '',
@@ -70,10 +70,10 @@ app.get('/', (req, res) => {
       treatment2: 'Routine Podiatry Appointments',
       price2: '£45.00',
       duration2: '30min',
-      treatment3: 'Home visits',
+      treatment3: 'Medical Pedicure (medi pedi)',
       price3: '£50.00',
       duration3: '30-40min',
-      treatment4: 'Nail Surgery ',
+      treatment4: 'Nail Surgery',
       price4: '£350.00/450.00',
       duration4: '60min',
       treatment5: 'Biomechanical Assessment',
@@ -91,8 +91,8 @@ app.get('/', (req, res) => {
 
 
       //Services variables
-      cancellationPolicy1: 'Feet Foremost operates a cancellation policy. Our policy is similar to many other medical clinics and we ask all patients kindly to adhere to it.',
-      cancellationPolicy2: 'Please be advised that we require 48 hours notice for cancellation of appointments. A £40.00 cancelation fee applies for non attendance without notice.',
+      cancellationPolicy1: '',
+      cancellationPolicy2: '',
       cancellationPolicy3: '',
 
 
