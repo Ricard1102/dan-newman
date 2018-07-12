@@ -86,7 +86,7 @@ app.get('/', (req, res) => {
       price7: '',
       duration7: '',
       //Maps
-      address: '35 Lime Tree Grove Shirley, Croydon, London, United Kingdom, CR0 8AZ',
+      address: '35 Lime Tree Grove Shirley, Croydon, CR0 8AZ',
       map_link: 'https://www.google.com/maps/place/35+Lime+Tree+Grove,+Croydon+CR0+8AZ/@51.369574,-0.0360564,17z/data=!3m1!4b1!4m5!3m4!1s0x48760042ea7de2ff:0xdd1840d151fa370e!8m2!3d51.3695707!4d-0.0338677',
 
 
@@ -97,7 +97,7 @@ app.get('/', (req, res) => {
 
 
       //Contact Variables
-      businessPhone: '+44 (0) 7960 272623'
+      businessPhone: '07960 272623'
 
 
 
