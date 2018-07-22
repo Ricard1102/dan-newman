@@ -4,16 +4,25 @@ const bodyParser = require('body-parser');
 const exphbs = require('express-handlebars');
 const hbs = require('hbs');
 const nodemailer = require('nodemailer');
+const httpsRedirect = require('express-https-redirect');
 require('dotenv/config');
 
 var app = express();
 
 const port = process.env.PORT || 3000;
 
+
+
+
 //VIEW ENGINE SETUP
 hbs.registerPartials(__dirname + '/views/partials');
 //app.engine('hbs', exphbs());
 app.set('view engine', 'hbs');
+
+
+//HTTPS Redirect
+
+app.use('/', httpsRedirect());
 
 //STATIC FOLDER
 
