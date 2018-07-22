@@ -49,7 +49,7 @@ app.get('/', (req, res) => {
   res.render('home.hbs',
     {
       //Head.hbs variables
-      keywords: 'podiatrist Croydon, bunion treatment, nail surgery croydon, chriopdist, diabetes podiatry',
+      keywords: 'podiatrist Croydon, bunion treatment, nail surgery croydon, chiropodist, diabetes podiatry',
       metaDescription: 'Feet Foremost is a professional podiatry (chiropody) service providing nail surgery, orthotics, foot and assessments and treatment for bunions, verrucaes and other common foot diseases. Home vists available.',
       pageTitle: 'Feet Foremost',
 
