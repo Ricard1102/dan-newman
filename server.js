@@ -39,7 +39,7 @@ app.get('/privacy', (req, res) => {
   res.render('privacy.hbs', {
     company: 'Feet Foremost',
     phone: '+44 (0) 7960 272623',
-    mail: 'feetforemost@hotmail.com',
+    mail: 'dannewman@feetforemost.com',
     address: '35 Lime Tree Grove Shirley, Croydon, London, United Kingdom, CR0 8AZ'
   });
 });
@@ -65,7 +65,7 @@ app.get('/', (req, res) => {
       //Hero variables
       h1Title: 'Feet Foremost',
 
-      webmail: 'feetforemost@hotmail.com',
+      webmail: 'dannewman@feetforemost.com',
       twitter_url: '',
       facebook_url: 'https://www.facebook.com/feetforemost/',
       googleplus_url: '',
