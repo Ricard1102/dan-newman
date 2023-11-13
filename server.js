@@ -66,11 +66,11 @@ app.get('/', (req, res) => {
       h1Title: 'Feet Foremost',
 
       webmail: 'dannewman@feetforemost.com',
-      twitter_url: '',
+      twitter_url: 'https://twitter.com/DanNewmanPod',
       facebook_url: 'https://www.facebook.com/feetforemost/',
       googleplus_url: '',
-      instagram_url: '',
-      linkedin_url: 'https://www.linkedin.com/in/daniel-newman-b9800972/',
+      instagram_url: 'https://www.instagram.com/feet_foremost/',
+      linkedin_url: 'https://www.linkedin.com/in/daniel-newman-rcpod-mchs-b9800972/',
 
       //treatments
       treatment1: 'Initial Podiatry Appointment',
